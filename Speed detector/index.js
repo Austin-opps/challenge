@@ -21,4 +21,4 @@ const kmperPoint=5;
     }
         
     }
-    console.log(checkspeed());
+checkspeed();
